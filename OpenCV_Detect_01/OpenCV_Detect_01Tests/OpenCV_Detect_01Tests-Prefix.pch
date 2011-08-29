@@ -1,7 +1,0 @@
-//
-// Prefix header for all source files of the 'OpenCV_Detect_01Tests' target in the 'OpenCV_Detect_01Tests' project
-//
-
-#ifdef __OBJC__
-    #import <UIKit/UIKit.h>
-#endif
